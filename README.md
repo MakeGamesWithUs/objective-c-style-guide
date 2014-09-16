@@ -165,6 +165,8 @@ Block comments should generally be avoided, as code should be as self-documentin
 
 ## Naming
 
+A three letter prefix should always be used for class names and constants, however may be omitted for Core Data entity names. For all Makeschool material the prefix 'MKS' should be used.
+
 Apple naming conventions should be adhered to wherever possible, especially those related to [memory management rules](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/MemoryMgmt/Articles/MemoryMgmt.html) ([NARC](http://stackoverflow.com/a/2865194/340508)).
 
 Long, descriptive method and variable names are good.
