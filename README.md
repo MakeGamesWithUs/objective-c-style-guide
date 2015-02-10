@@ -1,4 +1,4 @@
-# MakeGamesWithUs Objective-C style guide
+# Make School Objective-C style guide
 
 
 ## Credits
